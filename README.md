@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @kenken-trpg
-- 👀 I’m interested in Foundry Virtual Table Top & Table Top Roleplaying Game & TTRPG's online session & online session tool & JSON
-- 🌱 I’m currently learning Javascript, JSON
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I'm kenken 👋
 
-<!---
-kenken-trpg/kenken-trpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Developer from Kansai, Japan. I build practical tools around **tabletop RPGs, documents, and images** — and I like turning "it would be nice if…" into something that runs.
+
+- 🎲 Into Foundry VTT, TTRPG online sessions, and the tooling around them
+- 🛠️ Python (FastAPI, Streamlit) · JavaScript / Next.js · GitHub Pages
+- 💼 At work: PHP, TypeScript
+- 🤝 In a team: backend, data processing, and quick working prototypes
+- 📫 X: [@Kfrimon](https://x.com/Kfrimon)
+
+#### Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [chummer-web](https://github.com/kenken-trpg/chummer-web) | Unofficial Shadowrun 5e character builder for the web | FastAPI · Next.js |
+| [konbini-print-web](https://github.com/kenken-trpg/konbini-print-web) | Browser-only photo converter for convenience-store printing — [try it](https://kenken-trpg.github.io/konbini-print-web/) | JavaScript · GitHub Pages |
+| [reimpl-playbook](https://github.com/kenken-trpg/reimpl-playbook) | Methods, templates, and tools for re-implementing an existing app on a new framework | Python |
+| [pdf-shrink-split](https://github.com/kenken-trpg/pdf-shrink-split) | Shrink and split large PDFs by removing images and splitting by character count | Python |
+| [translate-dnd5e-sdr2-ja](https://github.com/kenken-trpg/translate-dnd5e-sdr2-ja) | Japanese translation of D&D 5e SRD 2024 for Foundry VTT | Python · Babele |
+| [darkprint_optimizer](https://github.com/kenken-trpg/darkprint_optimizer) | Make dark-mode screenshots print-friendly with luma analysis and edge detection | Python · Streamlit |
