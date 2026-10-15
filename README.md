@@ -17,4 +17,4 @@ Developer from Kansai, Japan. I build practical tools around **tabletop RPGs, do
 | [reimpl-playbook](https://github.com/kenken-trpg/reimpl-playbook) | Methods, templates, and tools for re-implementing an existing app on a new framework | Python |
 | [pdf-shrink-split](https://github.com/kenken-trpg/pdf-shrink-split) | Shrink and split large PDFs by removing images and splitting by character count | Python |
 | [translate-dnd5e-sdr2-ja](https://github.com/kenken-trpg/translate-dnd5e-sdr2-ja) | Japanese translation of D&D 5e SRD 2024 for Foundry VTT | Python · Babele |
-| [darkprint_optimizer](https://github.com/kenken-trpg/darkprint_optimizer) | Make dark-mode screenshots print-friendly with luma analysis and edge detection | Python · Streamlit |
+| [daggerheart-ja](https://github.com/kenken-trpg/daggerheart-ja) | Unofficial Japanese localization of the Daggerheart system for Foundry VTT | JavaScript · Babele |
